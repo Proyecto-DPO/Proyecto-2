@@ -1,0 +1,51 @@
+id,location,capacity,type,hasBalcony,view,hasKitchen,size,numberOfBeds,numberOfChildBeds
+1,West Wing,2,Double Suite,true,Beach,false,21,3,0
+2,East Wing,4,Double Suite,false,Garden,false,37,1,1
+3,North Wing,1,Standard,false,Street,false,20,1,0
+4,South Wing,1,Suite,true,Street,false,35,2,1
+5,South Wing,1,Double Suite,true,Garden,true,25,3,1
+6,North Wing,2,Standard,true,Garden,true,33,3,0
+7,North Wing,2,Standard,true,Garden,false,44,2,1
+8,South Wing,4,Double Suite,true,Beach,true,35,2,0
+9,North Wing,3,Standard,false,Garden,false,27,2,0
+10,South Wing,2,Double Suite,true,Beach,true,31,1,0
+11,East Wing,3,Standard,true,Street,true,27,3,0
+12,South Wing,2,Suite,false,Garden,false,21,2,0
+13,West Wing,4,Suite,true,Beach,true,44,1,1
+14,South Wing,4,Suite,true,Beach,true,24,3,0
+15,East Wing,1,Suite,true,Garden,false,47,2,1
+16,South Wing,4,Double Suite,false,Pool,false,41,1,1
+17,West Wing,4,Standard,false,Street,false,28,3,0
+18,South Wing,1,Standard,true,Garden,false,20,1,1
+19,West Wing,3,Double Suite,false,Garden,false,29,1,0
+20,West Wing,2,Standard,true,Garden,false,20,3,1
+21,East Wing,1,Standard,true,Beach,false,31,3,1
+22,West Wing,1,Double Suite,false,Beach,false,44,1,0
+23,South Wing,2,Suite,false,Pool,true,45,1,1
+24,North Wing,2,Double Suite,true,Street,false,43,2,1
+25,East Wing,2,Standard,true,Garden,false,22,2,0
+26,East Wing,4,Double Suite,false,Garden,false,29,3,1
+27,East Wing,4,Double Suite,false,Street,false,29,3,1
+28,West Wing,4,Suite,true,Street,true,35,3,1
+29,East Wing,2,Standard,true,Beach,false,23,1,0
+30,South Wing,3,Suite,true,Beach,false,25,3,0
+31,East Wing,1,Suite,true,Beach,true,49,1,0
+32,North Wing,4,Suite,false,Beach,true,36,1,1
+33,North Wing,2,Double Suite,true,Street,true,22,1,1
+34,West Wing,4,Standard,false,Pool,true,39,1,0
+35,South Wing,3,Double Suite,false,Pool,false,48,3,0
+36,South Wing,2,Suite,false,Pool,true,26,1,0
+37,West Wing,2,Double Suite,false,Pool,false,37,3,0
+38,East Wing,3,Suite,false,Beach,false,25,1,0
+39,East Wing,2,Suite,false,Beach,false,45,3,0
+40,South Wing,4,Standard,false,Pool,false,21,2,0
+41,North Wing,2,Suite,false,Beach,true,39,3,0
+42,North Wing,3,Suite,false,Beach,false,32,3,0
+43,South Wing,4,Standard,false,Beach,true,22,3,1
+44,East Wing,2,Suite,true,Street,false,35,2,0
+45,East Wing,4,Double Suite,true,Beach,true,29,1,1
+46,East Wing,3,Suite,false,Street,true,38,2,1
+47,South Wing,1,Standard,true,Beach,false,44,2,1
+48,South Wing,1,Suite,true,Street,true,32,1,1
+49,South Wing,4,Suite,false,Pool,false,22,3,1
+50,North Wing,1,Standard,false,Street,true,49,2,1
